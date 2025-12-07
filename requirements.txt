@@ -1,12 +1,26 @@
+# Core
 python-dotenv
 streamlit
+
+# Embeddings
 sentence-transformers
-langchain-community
+
+# LangChain ecosystem
 langchain
+langchain-community
 langchain-huggingface
 langchain-text-splitters
-unstructured
-unstructured[pdf]
 langchain-unstructured
 langchain-chroma
 langchain-groq
+
+# Document parsing
+unstructured
+unstructured[pdf]
+
+# OCR support for scanned/handwritten PDFs
+pdf2image
+pytesseract
+
+# Vector DB
+chromadb
